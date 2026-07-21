@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 
 ARTIFACT_DIR = Path("artifacts")
 MODEL_PATH = ARTIFACT_DIR / "model.joblib"
-MIN_ACCURACY = 0.85
+MIN_ACCURACY = 0.99
 RANDOM_STATE = 42
 
 
