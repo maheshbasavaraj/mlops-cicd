@@ -1,6 +1,6 @@
 .git
 .github
 .pytest_cache
-.venv
+.mlops
 __pycache__
 artifacts
