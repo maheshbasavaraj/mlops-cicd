@@ -1,4 +1,4 @@
-# Class Project: CI/CD for a Machine Learning API using GitHub Actions
+# Class Project: CI/CD for a Machine Learning API using GitHub Actions.
 
 This is a 90-120 minute classroom project for final-year engineering students.
 
